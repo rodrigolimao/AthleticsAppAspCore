@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtleticaEco", "AtleticaEco\AtleticaEco.csproj", "{D6598233-DC1E-43D5-BF00-0984B5CAC5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6598233-DC1E-43D5-BF00-0984B5CAC5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6598233-DC1E-43D5-BF00-0984B5CAC5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6598233-DC1E-43D5-BF00-0984B5CAC5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6598233-DC1E-43D5-BF00-0984B5CAC5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F4807F-815D-4A2E-A49E-7156BC3FE164}
+	EndGlobalSection
+EndGlobal

@@ -12,8 +12,9 @@ namespace AtleticaEco.Models
         public AtleticaModel(DbContextOptions<AtleticaModel>options): base(options)
         {
         }
-
+   
         public DbSet<Athlete> Athletes { get; set; }
+        public DbSet<Sport> Sports { get; set; }
 
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AtleticaEco.Models
 {
-    [Table("Athletes")]
+    [Table("Sports")]
     public class Sport
 
     {
@@ -25,8 +25,6 @@ namespace AtleticaEco.Models
 
         [Display(Name = "Sport Awards")]
         public int sport_awards { get; set; }
-
-        public virtual ICollection<Athlete> Athletes { get; set; }
 
     }
 }
